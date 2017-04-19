@@ -1,4 +1,7 @@
-# test coverage for  [koa-route (v3.2.0)](https://github.com/koajs/route#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-route.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-route.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-route)
+# npmtest-koa-route
+
+#### test coverage for  [koa-route (v3.2.0)](https://github.com/koajs/route#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-route.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-route.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-route)
+
 #### Koa route middleware
 
 [![NPM](https://nodei.co/npm/koa-route.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/koa-route)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-koa-route/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-koa-route/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-koa-route/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-koa-route/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-koa-route/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-koa-route/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-koa-route/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-koa-route/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-koa-route/build/test-report.html](https://npmtest.github.io/node-npmtest-koa-route/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-koa-route/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-koa-route/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-koa-route/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-koa-route/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-koa-route/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-koa-route/build/apidoc.html)
 
