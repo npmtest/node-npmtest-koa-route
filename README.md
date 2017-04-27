@@ -1,6 +1,6 @@
 # npmtest-koa-route
 
-#### test coverage for  [koa-route (v3.2.0)](https://github.com/koajs/route#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-route.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-route.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-route)
+#### basic test coverage for  [koa-route (v3.2.0)](https://github.com/koajs/route#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-route.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-route.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-route)
 
 #### Koa route middleware
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-koa-route/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-koa-route/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-koa-route/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-koa-route/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-koa-route/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-koa-route/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-koa-route/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-koa-route/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-koa-route/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-koa-route/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-koa-route/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-koa-route/build/coverage.html/index.html)
 
@@ -112,7 +112,8 @@
         "test-cov": "NODE_ENV=test node --harmony ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --require should",
         "test-travis": "NODE_ENV=test node --harmony ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --require should"
     },
-    "version": "3.2.0"
+    "version": "3.2.0",
+    "bin": {}
 }
 ```
 
